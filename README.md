@@ -1,3 +1,3 @@
 # cheapsmartphone
  Projeto Empreendedorismo
-    Aula de quinta
+    Desenvolvimento de um WebSite projeto Uninove segundo semestre
