@@ -7,6 +7,7 @@
 }
 h1{
     font-family: 'Kenia', sans-serif;
+    border: 1px solid rgb(255, 0, 0);
 }
 
 body{
@@ -15,8 +16,16 @@ body{
 
 .img1{
     border: 1px solid rgb(255, 0, 0); /* borda utilziado para alinhar imagem*/
+    width: 50%;
+    height: 50vh;
+    /* display: flex; */
+}
+
+.img1 figure img{
+    width: 400px;
 }
 
 .img2{
     border: 1px solid rgb(250, 0, 0);
+
 }
