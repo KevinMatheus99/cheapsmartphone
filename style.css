@@ -8,3 +8,15 @@
 h1{
     font-family: 'Kenia', sans-serif;
 }
+
+body{
+    background-image: linear-gradient(to left, #0a0238, #4f429759);
+}
+
+.img1{
+    border: 1px solid rgb(255, 0, 0); /* borda utilziado para alinhar imagem*/
+}
+
+.img2{
+    border: 1px solid rgb(250, 0, 0);
+}
